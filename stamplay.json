@@ -1,0 +1,10 @@
+{
+  "appId": "subscribe",
+  "apiKey": "55c2c9bf86c72027f115a76e2ea3804918fb62bc449bc683302534d74a0c6d52",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
